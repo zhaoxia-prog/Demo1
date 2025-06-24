@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e046bd80835ee65034af11b6feaad312" label="Computer" max_length="40" name="x_1755581_demo1_computer" type="collection">
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element display="true" label="Computer Id" max_length="40" name="computer_id" type="string"/>
+        <element choice="1" label="Computer Model" max_length="40" name="computer_model" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Dell Inc. Alienware M17x" sequence="3" value="dell_inc_alienware_m17x"/>
+                <element inactive_on_update="false" label="Cyberpower Gamer Ultra 2106" sequence="7" value="cyberpower_gamer_ultra_2106"/>
+                <element inactive_on_update="false" label="Asus G Series" sequence="4" value="asus_g_series"/>
+                <element inactive_on_update="false" label="Apple MacBook Air 13&quot;" sequence="8" value="apple_macbook_air_13"/>
+                <element inactive_on_update="false" label="Asus A53 Series" sequence="0" value="asus_a53_series"/>
+                <element inactive_on_update="false" label="Cyberpower Gamer Ultra 2098" sequence="5" value="cyberpower_gamer_ultra_2098"/>
+                <element inactive_on_update="false" label="Apple MacBook Pro 15&quot;" sequence="9" value="apple_macbook_pro_15"/>
+                <element inactive_on_update="false" label="Dell Inc. Alienware M14x" sequence="1" value="dell_inc_alienware_m14x"/>
+                <element inactive_on_update="false" label="Gateway DX Series" sequence="2" value="gateway_dx_series"/>
+                <element inactive_on_update="false" label="Cyberpower Gamer Ultra 2103" sequence="6" value="cyberpower_gamer_ultra_2103"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Stock quantity" max_length="40" name="stock_quantity" type="integer"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

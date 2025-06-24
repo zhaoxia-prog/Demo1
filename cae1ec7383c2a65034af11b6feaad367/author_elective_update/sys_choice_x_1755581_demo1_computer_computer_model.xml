@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="computer_model" table="x_1755581_demo1_computer" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>computer_model</element>
+            <name>x_1755581_demo1_computer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>computer_model</sys_name>
+            <sys_package display_value="Demo1" source="x_1755581_demo1">cae1ec7383c2a65034af11b6feaad367</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</sys_scope>
+            <sys_update_name>sys_choice_x_1755581_demo1_computer_computer_model</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Asus A53 Series</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>asus_a53_series</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dell Inc. Alienware M14x</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>dell_inc_alienware_m14x</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gateway DX Series</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>gateway_dx_series</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dell Inc. Alienware M17x</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>dell_inc_alienware_m17x</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Asus G Series</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>asus_g_series</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cyberpower Gamer Ultra 2098</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>cyberpower_gamer_ultra_2098</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cyberpower Gamer Ultra 2103</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>cyberpower_gamer_ultra_2103</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cyberpower Gamer Ultra 2106</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>cyberpower_gamer_ultra_2106</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apple MacBook Air 13"</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>apple_macbook_air_13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apple MacBook Pro 15"</label>
+            <language>en</language>
+            <name>x_1755581_demo1_computer</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 02:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 02:07:11</sys_updated_on>
+            <value>apple_macbook_pro_15</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

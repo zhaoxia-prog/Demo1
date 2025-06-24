@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description/>
+        <event_name>x_1755581_demo1.onboarding</event_name>
+        <fired_by/>
+        <priority>100</priority>
+        <queue/>
+        <suffix>onboarding</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 08:22:40</sys_created_on>
+        <sys_id>4a42038083d22a5034af11b6feaad392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755581_demo1.onboarding</sys_name>
+        <sys_package display_value="Demo1" source="x_1755581_demo1">cae1ec7383c2a65034af11b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</sys_scope>
+        <sys_update_name>sysevent_register_4a42038083d22a5034af11b6feaad392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 08:22:40</sys_updated_on>
+        <table>sc_req_item</table>
+    </sysevent_register>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</application>
+        <file_path/>
+        <instance_id>03b9a1c8fb99a2181feef633beefdcfe</instance_id>
+        <instance_name>dev339253</instance_name>
+        <name>sysevent_register_4a42038083d22a5034af11b6feaad392</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><derived_priority>100</derived_priority><description/><event_name>x_1755581_demo1.onboarding</event_name><fired_by/><priority>100</priority><queue/><suffix>onboarding</suffix><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 08:22:40</sys_created_on><sys_id>4a42038083d22a5034af11b6feaad392</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1755581_demo1.onboarding</sys_name><sys_package display_value="Demo1" source="x_1755581_demo1">cae1ec7383c2a65034af11b6feaad367</sys_package><sys_policy/><sys_scope display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</sys_scope><sys_update_name>sysevent_register_4a42038083d22a5034af11b6feaad392</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 08:22:40</sys_updated_on><table>sc_req_item</table></sysevent_register></record_update>]]></payload>
+        <payload_hash>-1217826886</payload_hash>
+        <record_name>x_1755581_demo1.onboarding</record_name>
+        <reverted_from/>
+        <source>0ae1ec7383c2a65034af11b6feaad39d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 08:22:40</sys_created_on>
+        <sys_id>f2905b0483162a5034af11b6feaad36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197822212500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 08:22:40</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>f6905b048c162a503341475c7142d86c</update_guid>
+        <update_guid_history>f6905b048c162a503341475c7142d86c:-1217826886</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 08:26:26</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>20dcdf7f039f4940b1bbdc65d9db0c10</sys_id>
+        <sys_metadata>4a42038083d22a5034af11b6feaad392</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755581_demo1.onboarding</sys_name>
+        <sys_package display_value="Demo1" source="x_1755581_demo1">cae1ec7383c2a65034af11b6feaad367</sys_package>
+        <sys_parent display_value="Sc Req Item">bce6906398e0221055904c91e2b654d4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</sys_scope>
+        <sys_scope_delete display_value="">84347f596da344559a0607ebef08adc9</sys_scope_delete>
+        <sys_update_name>sysevent_register_4a42038083d22a5034af11b6feaad392</sys_update_name>
+        <sys_update_version display_value="sysevent_register_4a42038083d22a5034af11b6feaad392">f2905b0483162a5034af11b6feaad36d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 08:26:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

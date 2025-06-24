@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="stock_quantity" table="x_1755581_demo1_inventory">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Stock quantity</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>true</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>stock_quantity</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Integer">integer</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>x_1755581_demo1_inventory</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:46:33</sys_created_on>
+        <sys_id>1cf5b580835ee65034af11b6feaad3b7</sys_id>
+        <sys_name>Stock quantity</sys_name>
+        <sys_package display_value="Demo1" source="x_1755581_demo1">cae1ec7383c2a65034af11b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</sys_scope>
+        <sys_update_name>sys_dictionary_x_1755581_demo1_inventory_stock_quantity</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:46:34</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</application>
+        <file_path/>
+        <instance_id>03b9a1c8fb99a2181feef633beefdcfe</instance_id>
+        <instance_name>dev339253</instance_name>
+        <name>sys_dictionary_x_1755581_demo1_inventory_stock_quantity</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="stock_quantity" table="x_1755581_demo1_inventory"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Stock quantity</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>true</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>stock_quantity</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Integer">integer</internal_type><mandatory>false</mandatory><max_length>255</max_length><name>x_1755581_demo1_inventory</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 01:46:33</sys_created_on><sys_id>1cf5b580835ee65034af11b6feaad3b7</sys_id><sys_name>Stock quantity</sys_name><sys_package display_value="Demo1" source="x_1755581_demo1">cae1ec7383c2a65034af11b6feaad367</sys_package><sys_policy/><sys_scope display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</sys_scope><sys_update_name>sys_dictionary_x_1755581_demo1_inventory_stock_quantity</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 01:46:34</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>946876209</payload_hash>
+        <record_name>Inventory.Stock quantity</record_name>
+        <reverted_from/>
+        <source>0ae1ec7383c2a65034af11b6feaad39d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:46:34</sys_created_on>
+        <sys_id>a4f5b580835ee65034af11b6feaad3cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19780b76ec10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:46:34</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e8f5b580f05ee65031544eaa95a85dcc</update_guid>
+        <update_guid_history>e8f5b580f05ee65031544eaa95a85dcc:946876209,a4f5b580c15ee650280fa2a135b9b2c4:1808587168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:47:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>1cf88c695c6247f29bdce3d672a171a4</sys_id>
+        <sys_metadata>1cf5b580835ee65034af11b6feaad3b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stock quantity</sys_name>
+        <sys_package display_value="Demo1" source="x_1755581_demo1">cae1ec7383c2a65034af11b6feaad367</sys_package>
+        <sys_parent display_value="">f7b53180835ee65034af11b6feaad355</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">cae1ec7383c2a65034af11b6feaad367</sys_scope>
+        <sys_scope_delete display_value="">84347f596da344559a0607ebef08adc9</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1755581_demo1_inventory_stock_quantity</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1755581_demo1_inventory_stock_quantity">a4f5b580835ee65034af11b6feaad3cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:47:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
